@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elvin! Nice to meet you!
-- 👀 I’m interested in Machine Learning projects! Specifically in Computer Vision related projects! (but anything related with Deep Learning catch my interest)
+- 👀 I’m interested in Deep Learning/Machine Learning projects! Specifically in Computer Vision and Language Models related projects! (but anything related with Deep Learning catch my interest)
 - 🌱 I’m currently learning about NLP and the different architectures there is!
 
 <!---
